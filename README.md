@@ -1,1 +1,2 @@
 # repoClase
+Alejandro Rodríguez Ramírez
